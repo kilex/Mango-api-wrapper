@@ -1,7 +1,7 @@
 package mango_events
 
 import (
-	"github.com/kilex/Mango-api-wrapper/mango_objects"
+	"github.com/kilex/Mango-api-wrapper/v2/mango_objects"
 )
 
 var Events = eventsChanelInit()

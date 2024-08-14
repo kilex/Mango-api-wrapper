@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/kilex/Mango-api-wrapper/mango_objects"
-	"github.com/kilex/Mango-api-wrapper/mango_request"
+	"github.com/kilex/Mango-api-wrapper/v2/mango_objects"
+	"github.com/kilex/Mango-api-wrapper/v2/mango_request"
 )
 
 func ResultSMS(w http.ResponseWriter, r *http.Request) {
