@@ -3,7 +3,7 @@ package mango_request
 import (
 	"encoding/json"
 
-	"github.com/kilex/Mango-api-wrapper/mango_objects"
+	"github.com/TrashPony/Mango-api-wrapper/mango_objects"
 )
 
 func ParseResult(jsonResp string) *mango_objects.Result {

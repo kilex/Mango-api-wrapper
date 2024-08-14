@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/kilex/Mango-api-wrapper/mango_objects"
-	"github.com/kilex/Mango-api-wrapper/mango_request"
+	"github.com/TrashPony/Mango-api-wrapper/mango_objects"
+	"github.com/TrashPony/Mango-api-wrapper/mango_request"
 )
 
 func EndCall(w http.ResponseWriter, r *http.Request) {

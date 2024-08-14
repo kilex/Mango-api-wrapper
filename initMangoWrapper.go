@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/kilex/Mango-api-wrapper/mango_events"
+	"github.com/TrashPony/Mango-api-wrapper/mango_events"
 )
 
 var ClientMango *Client

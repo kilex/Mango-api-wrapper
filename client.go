@@ -1,10 +1,10 @@
 package mango
 
 import (
-	"github.com/kilex/Mango-api-wrapper/mango_client"
-	"github.com/kilex/Mango-api-wrapper/mango_commands"
-	"github.com/kilex/Mango-api-wrapper/mango_events"
-	"github.com/kilex/Mango-api-wrapper/mango_objects"
+	"github.com/TrashPony/Mango-api-wrapper/mango_client"
+	"github.com/TrashPony/Mango-api-wrapper/mango_commands"
+	"github.com/TrashPony/Mango-api-wrapper/mango_events"
+	"github.com/TrashPony/Mango-api-wrapper/mango_objects"
 )
 
 type Client struct {
